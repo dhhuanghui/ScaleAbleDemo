@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:id="@+id/vendor_info_gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:background="@color/c_vd_black"
+        android:visibility="visible" >
+
+        <!--<ImageView-->
+            <!--android:id="@+id/imgV_tab0"-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:scaleType="fitXY"-->
+            <!--android:visibility="visible"-->
+            <!--tools:ignore="ContentDescription" />-->
+
+        <dhhuanghui.com.scaleabledemo.ViewPagerFixed
+            android:id="@+id/vendor_info_pics"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent" />
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="fill_parent"-->
+            <!--android:layout_height="30dip"-->
+            <!--android:layout_alignParentBottom="true"-->
+            <!--android:layout_gravity="bottom"-->
+            <!--android:background="#77000000"-->
+            <!--android:gravity="center"-->
+            <!--android:orientation="horizontal" >-->
+
+            <!--<RadioGroup-->
+                <!--android:id="@+id/vendor_info_radio"-->
+                <!--android:layout_width="fill_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:gravity="center"-->
+                <!--android:orientation="horizontal" >-->
+            <!--</RadioGroup>-->
+        <!--</LinearLayout>-->
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="gray">#999999</color>
+    <color name="blue">#FB3E3A</color>
+    <color name="white">#ffffff</color>
+    <color name="indicator_shadow_blue_current">#7FFFD4</color>
+    <color name="indicator_gray_notcurrent">#e7e7e7</color>
+    <color name="red">#ff0000</color>
+    <color name="activity_vendor_info_upgraded_bg">#f7f7f7</color>
+    <color name="black">#666666</color>
+    <color name="deep">#333333</color>
+    <color name="c_ff6801">#ff6801</color>
+    <color name="black_translucent">#50000000</color>
+    <color name="c_common_white">#ffffff</color>
+    <color name="c_orange">#ff610a</color>
+    <color name="c_gray">#a8a8a8</color>
+    <color name="c_shallow_gray">#f0f0f0</color>
+    <color name="c_shopservice_subtitle">#999999</color>
+    <color name="main_background">#f7f7f7</color>
+    <color name="c_line_bg">#d8d8d8</color>
+    <color name="c_bg_buy">#eeeeee</color>
+    <color name="c_vd_black">#ff000000</color>
+    <color name="beate_percent">#43CD80</color>
+    <color name="c_cacaca">#CACACA</color>
+    <color name="c_49D0B6">#49D0B6</color>
+    <color name="c_progressArc">#FD4936</color>
+    <color name="c_arc">#ececec</color>
+
+    <color name="c_gray_low">#e7e7e7</color>
+    <drawable name="home_lv">#e7e7e7</drawable>
+
+    <color name="c_myiceng_item_press">#c9c9c9</color>
+    <color name="c_headerview_textcolor">#ffffff</color>
+    <color name="c_green">#4bd1ba</color>
+    <color name="mainicon_textcolor_selected">#FB3E3A</color>
+    <color name="mainicon_textcolor">#969696</color>
+    <color name="c_btnnear_textcolor">#666666</color>
+    <color name="c_btnnear_selected_textcolor">#FB3E3A</color>
+    <color name="textcolor_yellow">#FFFF00</color>
+    <color name="c_vendordetail_333333">#333333</color>
+    <color name="c_vendordetail_999999">#999999</color>
+    <color name="c_vendordetail_fb3e3a">#fb3e3a</color>
+    <color name="c_transp">#00ffffff</color>
+    <!-- hhhh -->
+    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="btn_login_normal">#007086</color>
+    <color name="btn_login_pressed">#303744</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_register_normal">#2dafa3</color>
+    <color name="btn_register_pressed">#4ebcd3</color>
+    <color name="common_bottom_bar_normal_bg">#2d2f31</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="divider_list">#cccccc</color>
+    <color name="top_bar_normal_bg">#FB3E3A</color>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="orange">#FFA500</color>
+    <color name="gray_pressed">#b5b5b6</color>
+    <color name="gray_normal">#666667</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="black_deep">#FF000000</color>
+    <color name="c_transparent">#00000000</color>
+
+</resources>
